@@ -1,8 +1,8 @@
 # Heatmaps-for-2016-2017-NBA-shooting-data
 
-Data Visualization Examples
+Data Visualization Examples:
 
-
+![image](https://user-images.githubusercontent.com/87671757/190875217-3130da51-d499-49d0-a321-921fbeeae339.png)
 
 ![image](https://user-images.githubusercontent.com/87671757/190875156-eebe3d1b-0507-489b-9bdc-cc1b0c414f10.png)
 
