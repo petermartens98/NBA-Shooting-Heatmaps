@@ -2,7 +2,7 @@
 
 Data Visualization Examples
 
-![image](https://user-images.githubusercontent.com/87671757/190875151-0cffa037-ddc1-43b1-b6d0-b779a3cf4c97.png)
+
 
 ![image](https://user-images.githubusercontent.com/87671757/190875156-eebe3d1b-0507-489b-9bdc-cc1b0c414f10.png)
 
